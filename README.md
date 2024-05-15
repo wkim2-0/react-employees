@@ -1,3 +1,7 @@
-# react-emloyees
+# Учёт сотрудников в компании
 
-## gitnub pages https://wkim2-0.github.io/react-employees/
+## React-проект полностью написанный на классовых компонентах. В нём реализованы логика работы с формами, управляемыми и не управляемыми компонентами, поднятия состояния, поиск и фильтры, т.д.
+
+## GitHub pages https://wkim2-0.github.io/react-employees/
+
+
